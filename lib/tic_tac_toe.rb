@@ -56,6 +56,6 @@ class TicTacToe
   
   def turn
     puts "Where would you like to play? (1-9"
-    
+    input = gets.strip
   end
 end 
