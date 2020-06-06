@@ -55,6 +55,7 @@ class TicTacToe
   end
   
   def turn
+    puts "Where would you like to play? (1-9"
     
   end
 end 
