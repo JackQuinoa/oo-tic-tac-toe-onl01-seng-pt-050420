@@ -90,6 +90,7 @@ class TicTacToe
   end
   
   def winner 
-    return nil unless self.
+    return nil unless won?
+    board
   end
 end 
