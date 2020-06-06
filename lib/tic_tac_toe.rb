@@ -89,4 +89,7 @@ class TicTacToe
     self.draw? || self.won?
   end
   
+  def winner 
+    self.won? 
+  end
 end 
