@@ -54,4 +54,7 @@ class TicTacToe
     self.turn_count.odd? ? "O" : "X"
   end
   
+  def turn
+    
+  end
 end 
