@@ -78,7 +78,7 @@ class TicTacToe
   end
   
   def full?
-    @board
+    self.turn_count == 9 
   end
   
   
