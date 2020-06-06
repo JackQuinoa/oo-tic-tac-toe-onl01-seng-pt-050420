@@ -91,6 +91,6 @@ class TicTacToe
   
   def winner 
     return nil unless won?
-    board
+    @board[self.won?[0]]
   end
 end 
