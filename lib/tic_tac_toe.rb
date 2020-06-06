@@ -99,7 +99,7 @@ class TicTacToe
       turn 
     end
     puts "Congratulations #{self.winner}!" if self.won?
-    puts "Cat's Game" if self.draw?
+    puts "Cat's Game!" if self.draw?
   end
   
   
