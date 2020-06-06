@@ -97,6 +97,8 @@ class TicTacToe
   def play 
     while !over?
       turn 
+    end
+    Puts "Congrats!"
   end
   
   
