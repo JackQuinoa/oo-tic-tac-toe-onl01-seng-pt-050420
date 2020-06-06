@@ -58,6 +58,6 @@ class TicTacToe
     puts "Where would you like to play? (1-9"
     input = gets.strip
     index = input_to_index(input)
-    
+    if self.valid_move?
   end
 end 
