@@ -45,7 +45,8 @@ class TicTacToe
     @board.each do |pos| 
       if pos == "X" || pos == "Y"
       counter += 1
-                end
+      end
+    end
   end
   
   def current_player
