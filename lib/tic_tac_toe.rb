@@ -102,12 +102,4 @@ class TicTacToe
     puts "Cat's Game!" if self.draw?
   end
   
-  
-  
-  
-  
-  
-  
-  
-  
 end 
