@@ -65,8 +65,24 @@ class TicTacToe
       "Invalid move, try again"
       self.turn
     end
-      
-      
-      
   end
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 end 
