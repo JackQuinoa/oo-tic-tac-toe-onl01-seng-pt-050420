@@ -90,6 +90,6 @@ class TicTacToe
   end
   
   def winner 
-    @board.self.won?[0] 
+    self.won? ? @board.self.won?[0] : nil 
   end
 end 
