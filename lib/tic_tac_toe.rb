@@ -57,6 +57,7 @@ class TicTacToe
   def turn
     puts "Where would you like to play? (1-9"
     input = gets.strip
-    index = input_to_index
+    index = input_to_index(input)
+    
   end
 end 
