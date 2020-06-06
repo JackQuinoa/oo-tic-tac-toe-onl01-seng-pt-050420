@@ -98,7 +98,7 @@ class TicTacToe
     while !over?
       turn 
     end
-    Puts "Congrats #{self.winner}!" if self.won?
+    puts "Congrats #{self.winner}!" if self.won?
     Puts "Tie!" if self.draw?
   end
   
