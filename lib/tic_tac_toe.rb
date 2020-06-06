@@ -77,21 +77,9 @@ class TicTacToe
     end
   end
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  def full?
+    @board
+  end
   
   
 end 
