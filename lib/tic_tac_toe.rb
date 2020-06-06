@@ -94,7 +94,9 @@ class TicTacToe
     @board[self.won?[0]]
   end
   
-  
+  def play 
+    
+  end
   
   
   
